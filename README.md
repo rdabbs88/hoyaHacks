@@ -2,6 +2,10 @@
 
 An interactive simulation tool designed to help alleviate food deserts in Washington, DC by visualizing and analyzing grocery store accessibility patterns.
 
+## Website Link
+[https://gtownhack.vercel.app/](https://gtownhack.vercel.app/)
+
+
 ## Overview
 
 This project helps urban planners and policymakers combat food deserts in DC by simulating residents' access to grocery stores. Using real-time animations and demographic data, it visualizes how residents navigate to their nearest grocery stores, highlighting areas where access to fresh food is limited and how adding new grocery stores could combat food insecurity.
